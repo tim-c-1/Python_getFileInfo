@@ -1,8 +1,8 @@
-
+am
 import os
 from datetime import datetime
 
-home_folder = "C:/Users/tcooney/Documents/"
+home_folder = "C:/Users/username/Documents/"
 src_folder = input("Filepath:")
 
 
